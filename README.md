@@ -6,20 +6,20 @@
 
 ## 📖 Project Overview
 
-This project presents the design and implementation of a **Smart University Campus Network** using **Cisco Packet Tracer**. The network is designed to provide secure, organized, and scalable communication between different university departments by implementing VLAN segmentation, Inter-VLAN Routing, DHCP, DNS and Access Control Lists (ACLs).
+This project presents the design and implementation of a **Smart University Campus Network** using **Cisco Packet Tracer**. The network is designed to provide secure, organized, and scalable communication between different university departments by implementing VLAN segmentation, Inter-VLAN Routing, DHCP, DNS, and Access Control Lists (ACLs).
 
-The project demonstrates how a real university network can be designed using industry-standard networking concepts.
+The project was developed as part of the **CSE-203L Computer Communication & Networks Lab** course to demonstrate practical implementation of modern networking concepts in a simulated campus environment.
 
 ---
 
 ## 🎯 Objectives
 
-- Design a secure campus network
+- Design a secure and scalable campus network
 - Implement VLAN segmentation
 - Configure Inter-VLAN Routing using Router-on-a-Stick
 - Configure DHCP for automatic IP assignment
 - Configure DNS for hostname resolution
-- Implement ACLs to enforce security policies
+- Implement ACLs to enforce network security policies
 - Test network connectivity using Packet Tracer Simulation Mode
 
 ---
@@ -60,12 +60,13 @@ The network consists of:
 - Cisco Packet Tracer
 - Cisco 2911 Router
 - Cisco 2960 Switches
-- VLANs
+- VLAN Segmentation
 - IEEE 802.1Q Trunking
 - Router-on-a-Stick
+- Inter-VLAN Routing
 - DHCP
 - DNS
-- ACL
+- Extended ACLs
 - Static Routing
 
 ---
@@ -88,20 +89,28 @@ LICENSE
 
 - VLAN Segmentation
 - Inter-VLAN Routing
-- DHCP Server
-- DNS Server
+- DHCP Server Configuration
+- DNS Server Configuration
 - Extended ACL Security
-- Trunk Links
+- IEEE 802.1Q Trunking
 - Router-on-a-Stick
 - Static Routing
 - Internet Connectivity
-- Simulation Testing
+- Packet Tracer Simulation Testing
 
 ---
 
 ## 📸 Project Screenshots
 
-Screenshots are available in the **Screenshots** folder.
+Project screenshots, testing results, and simulation outputs are available in the **Screenshots** folder.
+
+---
+
+## 🎓 Academic Information
+
+**Course:** CSE-203L Computer Communication & Networks Lab
+
+**Project:** Smart University Campus Network
 
 ---
 
@@ -115,4 +124,4 @@ BS Computer Systems Engineering
 
 ## 📄 License
 
-This project is intended for educational purposes.
+This project is released under the MIT License and is intended for educational purposes.
