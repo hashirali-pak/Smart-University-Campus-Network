@@ -17,6 +17,14 @@ This project was developed as part of the **CSE-203L Computer Communication & Ne
 
 ---
 
+# 🖼 Network Architecture
+
+## Overall Architecture
+
+![Architecture](Images/Architecture.png)
+
+---
+
 # 📚 Course Information
 
 | Item | Details |
