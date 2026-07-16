@@ -95,10 +95,11 @@ The network consists of:
 Smart-University-Campus-Network/
 │
 ├── PacketTracer/
-│   └── UniversityCampus.pkt
+│   └── Smart University Campus Network.pkt
 │
 ├── Documentation/
-│   └── Project Report.pdf
+│   └── Project Report.docx
+    └── Project Report.pdf
 │
 ├── Configurations/
 │   ├── Core-Router.txt
@@ -113,21 +114,18 @@ Smart-University-Campus-Network/
 ├── Images/
 │   ├── Architecture.png
 │   ├── Topology.png
-│   └── Final-Network.png
 │
 ├── Screenshots/
-│   ├── VLAN Configuration
-│   ├── Trunk Configuration
-│   ├── Routing Table
-│   ├── DHCP Configuration
-│   ├── DNS Configuration
-│   ├── ACL Verification
-│   ├── Simulation Mode
-│   └── Connectivity Tests
+│   ├── 01-VLAN-Configuration
+│   ├── 02-Trunk-Configuration
+│   ├── 03-Subinterfaces
+│   ├── 04-Routing-Table
+│   ├── 05-ACL-Verification
+│   ├── 06-DHCP-Server
+│   ├── 07-DNS-Server
 │
 ├── README.md
 ├── LICENSE
-└── .gitignore
 ```
 
 ---
@@ -177,7 +175,7 @@ The complete network topology and architecture diagrams are available in the **I
 
 This project was completed as a semester laboratory project for the **CSE-203L Computer Communication & Networks Lab** course.
 
-The implementation follows standard networking concepts taught in the course, including:
+The implementation follows standard networking concepts, including:
 
 - VLAN Design
 - Switching
