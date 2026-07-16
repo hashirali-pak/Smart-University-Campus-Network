@@ -6,7 +6,7 @@
 
 ## 📖 Project Overview
 
-This project presents the design and implementation of a **Smart University Campus Network** using **Cisco Packet Tracer**. The network is designed to provide secure, organized, and scalable communication between different university departments by implementing VLAN segmentation, Inter-VLAN Routing, DHCP, DNS, and Access Control Lists (ACLs).
+This project presents the design and implementation of a **Smart University Campus Network** using **Cisco Packet Tracer**. The network is designed to provide secure, organized, and scalable communication between different university departments by implementing VLAN segmentation, Inter-VLAN Routing, DHCP, DNS and Access Control Lists (ACLs).
 
 The project demonstrates how a real university network can be designed using industry-standard networking concepts.
 
